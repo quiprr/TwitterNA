@@ -1,0 +1,9 @@
+Package: dev.quiprr.twitterna
+Name: TwitterNA
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A no-bullshit and tiny tweak to remove ads on the Twitter app.
+Maintainer: quiprr
+Author: quiprr
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
